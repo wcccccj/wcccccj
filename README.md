@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wcccccj/wcccccj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="" src="https://github-readme-stats.vercel.app/api?username=wcccccj&bg_color=30,35495e,41b883&title_color=fff&text_color=fff&show_icons=true&icon_color=ffbf40" />
